@@ -1,0 +1,1 @@
+All the images will need to be swapped for valid paths or qtile will fail to load and just stall forever
